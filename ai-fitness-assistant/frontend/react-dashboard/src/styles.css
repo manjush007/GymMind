@@ -1,0 +1,11 @@
+/* Global Overrides - Minimal, let index.css handle most styling */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Fix any scrollbar edge cases */
+body {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+
+  backend:
+    build: .
+    container_name: fitness_api
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app

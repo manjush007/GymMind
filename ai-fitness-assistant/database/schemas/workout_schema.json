@@ -1,0 +1,7 @@
+{
+  "user_id": "string",
+  "exercise": "string",
+  "duration": "number",
+  "calories_burned": "number",
+  "date": "string"
+}
