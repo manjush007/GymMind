@@ -1,6 +1,16 @@
 # AI Fitness Assistant
 
 AI Fitness Assistant is a full-stack health and fitness application. It combines a React dashboard, a FastAPI backend, MongoDB persistence, workout and habit models, diet recommendations, pose-detection utilities, and an optional Gemini-powered fitness chatbot.
+## Screenshots
+
+### Dashboard
+![GymMind Dashboard](ai-fitness-assistant/docs/screenshots/dashboard.png)
+
+### Workouts
+![GymMind Workouts](ai-fitness-assistant/docs/screenshots/workouts.png)
+
+### Diet Plan
+![GymMind Diet Plan](ai-fitness-assistant/docs/screenshots/diet-plan.png)
 
 ## Features
 
@@ -204,13 +214,3 @@ Ensure the project `.gitignore` is inside `ai-fitness-assistant` before running 
 ## Disclaimer
 
 This project provides fitness and wellness assistance for educational purposes. It is not a medical device and does not replace advice from a qualified healthcare professional. Consult a doctor for injuries, medical conditions, or significant changes to diet or exercise.
-## Screenshots
-
-### Dashboard
-![GymMind Dashboard](ai-fitness-assistant/docs/screenshots/dashboard.png)
-
-### Workouts
-![GymMind Workouts](ai-fitness-assistant/docs/screenshots/workouts.png)
-
-### Diet Plan
-![GymMind Diet Plan](ai-fitness-assistant/docs/screenshots/diet-plan.png)
