@@ -12,6 +12,20 @@ AI Fitness Assistant is a full-stack health and fitness application. It combines
 - Keyword-based chatbot fallback when Gemini is unavailable or rate-limited
 - Pose detection, posture analysis, and repetition counting utilities
 - Interactive API documentation through FastAPI
+## Screenshots
+
+### Dashboard
+
+![GymMind Dashboard](docs/screenshots/dashboard.png)
+
+### Workouts
+
+![GymMind Workouts](docs/screenshots/workouts.png)
+
+### Diet Plan
+
+![GymMind Diet Plan](docs/screenshots/diet-plan.png)
+
 
 ## Technology Stack
 
